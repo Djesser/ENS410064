@@ -1,9 +1,9 @@
-ENS410064 - 2024
-Nome: Djesser Zechner Sergio
-Pasta da disciplina ENS410064
-Pasta no drive do Dell: I:\Meu Drive\UFSC\PPGEA 2024\Python_for_env\ENS410064
+# ENS410064 - 2024
+## Nome: Djesser Zechner Sergio
+### Pasta da disciplina ENS410064
+### Pasta no drive do Dell: I:\Meu Drive\UFSC\PPGEA 2024\Python_for_env\ENS410064
 
-Organização das pastas:
+# Organização das pastas:
 
 - Atividades: Contém as atividades realizadas da disciplina: Entrega
 - Aulas: contém cópia dos arquivos *.ipynb do moodle presencial da disciplina
