@@ -1,7 +1,7 @@
-Aula 3 - Python - 03/10/2024
+# Aula 3 - Python - 03/10/2024
 
 	
-Orientações iniciais:
+### Orientações iniciais:
 
 	no cmd digite 
 
@@ -16,7 +16,7 @@ Orientações iniciais:
 
 	uso tab para aparecer sugestão no cmd
 
-Orientações para GitHub:
+### Orientações para GitHub:
 
 	converter arquivo txt para md transforma o arquivo em markdown (permite formatar o 	txt)
 
